@@ -1,0 +1,4 @@
+﻿  hw1027.cpp
+D:\github code\my-git-test\1027\hw1027.cpp(131,9): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\github code\my-git-test\1027\hw1027.cpp(131,9): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+  1027.vcxproj -> D:\github code\my-git-test\1027\x64\Debug\1027.exe

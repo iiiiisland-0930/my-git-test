@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "1027\\x64\\Debug\\hw1027.obj",
+            "outputs": [
+                "1027\\x64\\Debug\\hw1027.cpp.obj.dt.module.json",
+                "1027\\x64\\Debug\\hw1027.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
